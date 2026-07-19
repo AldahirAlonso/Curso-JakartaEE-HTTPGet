@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Clase HelloServlet</a>
+<br>
+<a href="ParametrosGet.jsp">Parametros GET - Query String</a>
 </body>
 </html>
