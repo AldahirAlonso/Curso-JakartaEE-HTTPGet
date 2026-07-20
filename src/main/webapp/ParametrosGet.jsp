@@ -8,7 +8,25 @@
     <title>Parametros Get de la url - Query String</title>
 </head>
 <body>
-        <h1>Parametros Get de la url - Query String</h1>
-        <a href="ParametrosGet?saludo=Hola Aldahir">Parametros Get de la url /url-get?saludo=Hola</a>
+<h1>Parametros Get de la url - Query String</h1>
+<ul>
+    <li>
+        <a href="ParametrosGet?saludo=Hola Aldahir">Parametros Get de la url ParametrosGet?saludo=Hola Aldahir</a>
+    </li>
+
+    <li>
+        <a href="ParametrosGet?saludo=Hola&nombre=Andres">Parametros Get de la url
+            ParametrosGet?saludo=Hola&nombre=Andres</a>
+    </li>
+
+    <li>
+        <a href="ParametrosGet?nombre=Hola Aldahir">Parametros Get de la url ParametrosGet?nombre=Hola Aldahir</a>
+    </li>
+
+    <li>
+        <a href="ParametrosGet?saludo=Hola&nombre=Aldahir&codigo=12345">
+            ParametrosGet?saludo=Hola&nombre=Aldahir&codigo=12345</a>
+    </li>
+</ul>
 </body>
 </html>
